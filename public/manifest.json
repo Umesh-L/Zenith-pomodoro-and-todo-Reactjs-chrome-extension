@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "FocusFlow: Pomodoro & Tasks (React)",
+  "version": "1.0",
+  "description": "A simple and beautiful Pomodoro timer combined with a to-do list, built with React.",
+  "permissions": [
+    "storage",
+    "notifications",
+    "alarms"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
