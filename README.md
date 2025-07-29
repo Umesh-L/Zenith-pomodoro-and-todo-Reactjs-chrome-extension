@@ -1,4 +1,4 @@
-# ☮️ Zenith : Pomodoro and tasks chrome extension
+# ☮️ Zenith : Pomodoro and To-Do chrome extension
 <hr/>
 
 ### 📜 Zenith is a chrome extension developed using React.js, focused on productivity and foucus while doing and study or research on browser.
