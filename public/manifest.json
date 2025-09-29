@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "FocusFlow: Pomodoro & Tasks (React)",
+  "name": "Zenith : Pomodoro & To-Do chrome extension",
   "version": "1.0",
   "description": "A simple and beautiful Pomodoro timer combined with a to-do list, built with React.",
   "permissions": [
